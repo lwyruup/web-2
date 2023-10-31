@@ -1,0 +1,156 @@
+.main{
+	padding: 0;
+	height: 120px;
+	margin: 0 auto;
+    display: block;
+}
+
+
+
+.link{
+   max-width: 960px;
+   background-color: aquamarine;
+   margin: 0 auto;
+   padding: 1%;
+}
+
+ header{
+     background-color: rgb(70, 174, 167);
+border-bottom: 5px solid #000000;
+ }
+ #main {
+   background-color: rgb(140, 239, 232);
+border: 5px solid #000000;
+}
+   .header_cont {
+     padding: 15px 10px 0 10px;
+     clear: both;
+   }
+   .header_cont div {
+     padding: 25px 0 0 10px;
+   }
+ .container{
+     width: 100%;
+ }
+
+/* body{
+ color:#4B0082;
+   background-color:	#a484f6;
+
+ }*/
+ .page-nav{
+   float: right;
+   margin-right: 35px;
+   font-size: x-large;
+
+ }
+
+ header{
+    display: block;
+ }
+ div{
+    display: block;
+ }
+
+
+
+
+
+  .link li{
+  align-items: center;
+  display: block;
+   padding: 10px;
+  }
+
+ li{
+  margin:10px auto;
+ }
+
+
+
+ a{
+     color: #000000;  
+ }
+ a:hover{
+     text-decoration: inherit;
+ }
+
+
+tr:nth-child(even){
+     background-color: #621ff4;
+ }
+
+  .table{
+     border-collapse: collapse;
+     border: 1px solid black;
+     max-width: 960px;
+     height: 300px;
+   background-color: rgba(30, 212, 166, 0.47);
+   margin: 0 auto;
+   padding: 1%;
+     
+ }
+ th, td{
+     border: 1px solid black;
+ }
+
+ .hik{
+    font-size: larger;
+    padding-left: 10%;
+ }
+
+
+ .cart{
+    float: left;
+    height: 100px;
+    width: 100px;
+    border: 3px solid #000000;
+    margin-left: 15px;
+ }
+
+
+
+
+  #form{
+  margin: 0 auto;
+  padding: 1%;
+  align-items: center;
+  background-color: rgba(30, 212, 166, 0.47);
+  max-width: 960px;
+  height: 450px;
+ }
+
+  input, select, textarea{
+     border: 1px solid#e5e5e5;
+ }
+ input[type=submit],[type=radio], [type=date]{
+     cursor: pointer;
+ }
+ input[type=submit]{
+     background-color: rgb(255, 255, 255);
+ }
+ textarea{
+     resize: none;
+ }
+
+
+ .footer{
+     background-color: rgb(70, 174, 167);
+      } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
